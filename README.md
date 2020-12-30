@@ -1,4 +1,4 @@
-# GBoard Personal Dictory for Pokémon
+# GBoard Personal Dictionary for Pokémon
 Personal dictionary for GBoard containing the names of all Pokémon using their national Pokédex number as the shortcut.
 
 # Usage
